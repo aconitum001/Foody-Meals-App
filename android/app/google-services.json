@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542227336560",
+    "project_id": "mealsapp-95d16",
+    "storage_bucket": "mealsapp-95d16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542227336560:android:069b6d3796a2bc156253b5",
+        "android_client_info": {
+          "package_name": "com.example.recipe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYR4uhDbR4XtNuvzZzIak4bVpnuZa8S0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
