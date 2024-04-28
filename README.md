@@ -31,6 +31,11 @@ Foudiy is a meals application built with Flutter, designed to make discovering, 
 
 ## Installation
 
-1. **Prerequisites:** Make sure you have Flutter installed on your system. If not, refer to the [official installation guide](https://flutter.dev/docs/get-started/install).
-   
-2. **Clone the Repository:** 
+To start using Foudiy, simply follow these steps:
+
+1. **Install Flutter:** Ensure Flutter is installed on your system. If not, refer to the [official installation guide](https://flutter.dev/docs/get-started/install).
+
+2. **Clone the Repository:** Run the following command to clone the Foudiy repository to your local machine:
+
+```bash
+git clone https://github.com/aconitum001/Quizzo-flutter-Project.git
