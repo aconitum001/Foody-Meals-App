@@ -13,11 +13,8 @@ Foudiy is a meals application built with Flutter, designed to make discovering, 
 4. **Shopping List:** 🛒 Plan your grocery shopping by adding ingredients from recipes to your shopping list. Keep track of what you need to buy for your chosen meals.
 
 ## Screenshots
+![Screenshot_1714324029](https://github.com/aconitum001/Foudiy-Meals-App/assets/141423029/c4e3c187-62fb-42df-be12-e602a0f49422)
 
-Include screenshots of your app here to give users a visual preview of its interface. You can add them directly to this README or provide links to external image hosting services.
-
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
 
 ## Installation
 
