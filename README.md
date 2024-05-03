@@ -1,4 +1,4 @@
-# Foudiy - Discover, Save, and Organize Recipes
+# Foody - Discover, Save, and Organize Recipes
 
 Foudiy is a meals application built with Flutter, designed to make discovering, saving, and organizing recipes from around the world easy and convenient.
 
