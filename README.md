@@ -1,3 +1,4 @@
+![Banner](https://github.com/aconitum001/Foody-Meals-App/assets/141423029/34e9fbdb-916f-493a-a7ca-e4b01c6dec52)
 # Foody - Discover, Save, and Organize Recipes
 
 Foudiy is a meals application built with Flutter, designed to make discovering, saving, and organizing recipes from around the world easy and convenient.
